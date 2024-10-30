@@ -1,0 +1,19 @@
+.container {
+    position: relative;
+}
+
+
+.light {
+    mix-blend-mode: overlay;
+    position: absolute;
+    z-index: 0;
+}
+
+.light_papa {
+    position: absolute;
+    top: 0px;
+}
+
+.container2 {
+    padding: 170px 10px 0px;
+}
